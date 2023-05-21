@@ -1,4 +1,4 @@
-package org.wipf.jasmarty.logic.base;
+package org.wipf.puzzlewipf.logic.base;
 
 import java.util.List;
 import java.util.UUID;
@@ -7,7 +7,7 @@ import javax.enterprise.context.ApplicationScoped;
 import javax.transaction.Transactional;
 
 import org.jboss.logging.Logger;
-import org.wipf.jasmarty.databasetypes.base.WipfConfig;
+import org.wipf.puzzlewipf.databasetypes.WipfConfig;
 
 /**
  * @author wipf

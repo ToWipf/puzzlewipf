@@ -1,4 +1,4 @@
-package org.wipf.jasmarty.logic.base;
+package org.wipf.puzzlewipf.logic.base;
 
 import java.nio.file.Files;
 import java.nio.file.Path;

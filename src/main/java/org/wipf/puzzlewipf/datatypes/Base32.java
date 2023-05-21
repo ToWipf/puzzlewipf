@@ -1,4 +1,4 @@
-package org.wipf.jasmarty.datatypes;
+package org.wipf.puzzlewipf.datatypes;
 
 /* (PD) 2001 The Bitzi Corporation
  * Please see http://bitzi.com/publicdomain for more info.

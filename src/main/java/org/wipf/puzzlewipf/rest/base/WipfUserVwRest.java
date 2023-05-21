@@ -1,4 +1,4 @@
-package org.wipf.jasmarty.rest.base;
+package org.wipf.puzzlewipf.rest.base;
 
 import javax.annotation.security.PermitAll;
 import javax.annotation.security.RolesAllowed;
@@ -16,9 +16,9 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.SecurityContext;
 
-import org.wipf.jasmarty.WipfException;
-import org.wipf.jasmarty.databasetypes.base.WipfUser;
-import org.wipf.jasmarty.logic.base.WipfUserVW;
+import org.wipf.puzzlewipf.WipfException;
+import org.wipf.puzzlewipf.databasetypes.WipfUser;
+import org.wipf.puzzlewipf.logic.base.WipfUserVW;
 
 /**
  * @author wipf

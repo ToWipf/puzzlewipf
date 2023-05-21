@@ -1,4 +1,4 @@
-package org.wipf.jasmarty.logic.base;
+package org.wipf.puzzlewipf.logic.base;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import javax.enterprise.context.ApplicationScoped;
 import javax.transaction.Transactional;
 
 import org.jboss.logging.Logger;
-import org.wipf.jasmarty.databasetypes.base.WipfUser;
+import org.wipf.puzzlewipf.databasetypes.WipfUser;
 
 import io.quarkus.elytron.security.common.BcryptUtil;
 

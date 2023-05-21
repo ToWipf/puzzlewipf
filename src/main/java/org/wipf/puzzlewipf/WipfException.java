@@ -1,4 +1,4 @@
-package org.wipf.jasmarty;
+package org.wipf.puzzlewipf;
 
 import org.jboss.logging.Logger;
 

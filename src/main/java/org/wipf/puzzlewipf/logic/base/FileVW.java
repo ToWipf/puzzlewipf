@@ -1,4 +1,4 @@
-package org.wipf.jasmarty.logic.base;
+package org.wipf.puzzlewipf.logic.base;
 
 import java.io.File;
 import java.io.FileOutputStream;

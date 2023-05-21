@@ -1,4 +1,4 @@
-package org.wipf.jasmarty.databasetypes.base;
+package org.wipf.puzzlewipf.databasetypes;
 
 import java.io.Serializable;
 

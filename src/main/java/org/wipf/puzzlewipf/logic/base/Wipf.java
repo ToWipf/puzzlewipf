@@ -1,4 +1,4 @@
-package org.wipf.jasmarty.logic.base;
+package org.wipf.puzzlewipf.logic.base;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -28,7 +28,7 @@ import javax.enterprise.context.ApplicationScoped;
 import org.jboss.logging.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import org.wipf.jasmarty.datatypes.Base32;
+import org.wipf.puzzlewipf.datatypes.Base32;
 
 /**
  * @author wipf
