@@ -1,0 +1,9 @@
+/target/
+/files/
+/angular-app/package-lock.json
+/angular-app/node_modules/
+/angular-app/dist/
+/angular-app/.angular/cache/
+/src/main/resources/META-INF/resources/app/
+*.db
+*jasmarty.jar
